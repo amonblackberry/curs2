@@ -1,0 +1,33 @@
+.andika-regular {
+    font-family: "Andika", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.andika-bold {
+    font-family: "Andika", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.andika-regular-italic {
+    font-family: "Andika", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.andika-bold-italic {
+    font-family: "Andika", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+body{
+    font-family: "Andika", sans-serif;
+}
+header {
+    background-image: url('png/3.png');
+    background-size: cover;
+    /* Заставляет изображение заполнять весь блок */
+    background-position: center;
+    /* Центрирует изображение */
+}
